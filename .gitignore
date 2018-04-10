@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#temp files
+temp.root
+Eff_NeuralNet.pdf
